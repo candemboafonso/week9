@@ -2,9 +2,9 @@
 	
 
 	:root {
-	    --accent: #66e8ff;
+	    --accent: Black;
 	    --dark: red;
-	    --light: #96f3b2;
+	    --light: black;
 	    --border: 5px solid var(--accent);
 	}
 	
